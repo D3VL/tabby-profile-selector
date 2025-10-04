@@ -2,7 +2,7 @@
 
 A better profile selector plugin for Tabby terminal.
 
-![Profile Selector Screenshot](https://raw.githubusercontent.com/d3vl/tabby-profile-selector/main/images/screenshot1.png)
+![Profile Selector Screenshot](https://raw.githubusercontent.com/D3VL/tabby-profile-selector/refs/heads/main/images/screenshot1.png)
 
 ## Usage
 
